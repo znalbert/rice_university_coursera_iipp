@@ -16,4 +16,4 @@ Right now, the program just runs five times, with the player selecting one of ea
 
 ## Learning Objectives for This Project
 
-This being the first project it was pretty simple and straight forward. You have functions using helper functions to determine that the user has given a valid input and then runs the game using modular arithmetic to determine the winner.
+This being the first project it was pretty simple and straight forward. You have functions using helper functions to determine that the user has given a valid input and then runs the game using modular arithmetic to determine the winner, which is then printed to the console.
