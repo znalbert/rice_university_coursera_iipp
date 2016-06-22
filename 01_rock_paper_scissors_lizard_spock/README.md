@@ -4,8 +4,8 @@ This was my Rock-Paper-Scissors-Lizard-Spock submission for Coursera's Intro to 
 
 ## How to Play
 
-(TL;DR - Click the play button in the upper left [here](http://www.codeskulptor.org/#user41_bR8hsxFWu0_14.py).)
+(TL;DR - Click the play button in the upper left [here](http://www.codeskulptor.org/#user41_ACCNSin33D_2.py)
 
-Currently, this code is intended for use with their [Codeskulptor](http://www.codeskulptor.org/) Python interpreter, and you can play my version [here](http://www.codeskulptor.org/#user41_bR8hsxFWu0_14.py). You just have to hit the "play" icon in the upper left corner.
+Currently, this code is intended for use with their [Codeskulptor](http://www.codeskulptor.org/) Python interpreter, and you can play my version [here](http://www.codeskulptor.org/#user41_ACCNSin33D_2.py). You just have to hit the "play" icon in the upper left corner.
 
 Right now, the program just runs five times, with the player selecting one of each of the choices, and the computer randomly selecting a choice as well.  It prints out the results in the window on the right.
