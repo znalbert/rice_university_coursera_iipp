@@ -6,7 +6,7 @@ This was my Rock-Paper-Scissors-Lizard-Spock submission for Coursera's Intro to 
 
 (TL;DR - Click the play button in the upper left [here](http://www.codeskulptor.org/#user41_ACCNSin33D_2.py).)
 
-![Hit that play button in the upper left](https://raw.githubusercontent.com/znalbert/rice_university_coursera_iipp/master/rpsls.png)
+![Hit that play button in the upper left](https://raw.githubusercontent.com/znalbert/rice_university_coursera_iipp/master/01_rock_paper_scissors_lizard_spock/rpsls.png)
 
 Currently, this code is intended for use with their [Codeskulptor](http://www.codeskulptor.org/) Python interpreter, and you can play my version [here](http://www.codeskulptor.org/#user41_ACCNSin33D_2.py). You just have to hit the "play" icon in the upper left corner.
 
