@@ -2,7 +2,7 @@
 
 This was my "Guess the Number" submission for Coursera's Intro to Interactive Programming in Python course. It involves creating a simple interface with their SimpleGUI module in order to create a mini-game in which the player tries to guess a random number selected by the computer.  The player can play one of two versions in which the number is either in between 1 to 100 or between 1 to 1000.
 
-![A pic of the Rock-Paper-Scissors-Lizard-Spock game](https://raw.githubusercontent.com/znalbert/rice_university_coursera_iipp/master/02_guess_the_number/gtn.png)
+![A pic of the Guess the Number game](https://raw.githubusercontent.com/znalbert/rice_university_coursera_iipp/master/02_guess_the_number/gtn.png)
 
 ## How to Play
 
