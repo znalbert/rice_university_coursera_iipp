@@ -1,4 +1,3 @@
-# template for "Stopwatch: The Game"
 import simplegui
 
 # define global variables
