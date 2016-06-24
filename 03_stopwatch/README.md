@@ -16,4 +16,6 @@ After hitting that button you'll get a pop-up window in which the game takes pla
 
 ## Learning Objectives for This Project
 
+#### Canvas, drawing, timers
+
 This was the first project that didn't take place in the console. We had to setup a timer, buttons to control the timer, and event handlers for the timer. We also had to format the time with modular arithmetic and have it displayed correctly on the canvas.

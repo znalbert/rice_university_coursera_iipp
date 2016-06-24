@@ -16,4 +16,6 @@ Once you've hit the "play" button, you'll have a window pop up and the game will
 
 ## Learning Objectives for This Project
 
+#### Event-driven programming, local/global variables
+
 This is an early project that teaches about global variables and creating frames.
