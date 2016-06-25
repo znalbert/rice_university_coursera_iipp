@@ -6,7 +6,7 @@ This was my "Memory" submission for Coursera's Intro to Interactive Programming 
 
 ## How to Play
 
-(TL;DR - Click the play button in the upper left [here](http://www.codeskulptor.org/#user41_DdmW3XS8ca_2.py).)
+(TL;DR - Click the play button in the upper left [here](http://www.codeskulptor.org/#user41_nQF9YQUa7lGwEpQ_1.py).)
 
 ![Hit that play button in the upper left](https://raw.githubusercontent.com/znalbert/rice_university_coursera_iipp/master/01_rock_paper_scissors_lizard_spock/rpsls-play-button.png)
 
