@@ -35,22 +35,22 @@ Play [here](http://www.codeskulptor.org/#user40_71DF9qwVQ5_1.py), and see code [
 
 Play [here](http://www.codeskulptor.org/#user41_DdmW3XS8ca_2.py), and see code [here](https://github.com/znalbert/rice_university_coursera_iipp/tree/master/03_stopwatch).
 
-#### Pong
+#### 04 - Pong
 ![A pic of the Pong game](https://raw.githubusercontent.com/znalbert/rice_university_coursera_iipp/master/04_pong/pong.png)
 
 Play [here](http://www.codeskulptor.org/#user40_5xrrUhDm5H_0.py), and see code [here](https://github.com/znalbert/rice_university_coursera_iipp/tree/master/04_pong).
 
-#### Memory
+#### 05 - Memory
 ![A pic of the Memory game](https://raw.githubusercontent.com/znalbert/rice_university_coursera_iipp/master/05_memory/memory.gif)
 
 Play [here](http://www.codeskulptor.org/#user41_nQF9YQUa7lGwEpQ_1.py), and see code [here](https://github.com/znalbert/rice_university_coursera_iipp/tree/master/05_memory).
 
-#### Blackjack
+#### 06 - Blackjack
 ![A pic of the Blackjack game](https://raw.githubusercontent.com/znalbert/rice_university_coursera_iipp/master/06_blackjack/blackjack.png)
 
 Play [here](http://www.codeskulptor.org/#user40_2LHNvJJRAp_8.py), and see code [here](https://github.com/znalbert/rice_university_coursera_iipp/tree/master/06_blackjack).
 
-#### Asteroids
+#### 07 - 08 Asteroids
 ![A pic of the Asteroids game](https://raw.githubusercontent.com/znalbert/rice_university_coursera_iipp/master/07-8_asteroids/asteroids.png)
 
 Play [here](http://www.codeskulptor.org/#user40_N61SJbXs3w_15.py), and see code [here](https://github.com/znalbert/rice_university_coursera_iipp/tree/master/07-8_asteroids).
